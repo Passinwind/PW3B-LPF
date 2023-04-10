@@ -1,5 +1,5 @@
 # PW3B-LPF
-Open source hybrid filter preamps for electric and upright bass, guitar, mandolin, and other musical instruments.
+## Open source hybrid filter preamps for electric and upright bass, guitar, mandolin, and other musical instruments. Pedal friendly all in one version with through hole parts and individual modules for variable high pass filter (v2), Baxandall bass and mid controls, and variable resonance variable frequency low pass filter. All modules can be configured for standalone use of various mix and match combinations.
 
 WTHPF pedal version:
 
