@@ -11,7 +11,8 @@ Actual Tayda enclosure:
 
 Mockup of Cusack color shifting enclosure with UV printed graphics:
 
-![125B_OS1](https://user-images.githubusercontent.com/127763821/231558706-20a6e7bf-04f1-4dd0-b0ec-7fe34abc5633.PNG)
+![125B_OS1](https://user-images.githubusercontent.com/127763821/231566426-e0fd9349-267a-40f5-87a9-68074224ddae.PNG)
+
 
 
 Status: in final testing and revision, official v2 release expected by May 2023.
