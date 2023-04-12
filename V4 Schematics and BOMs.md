@@ -8,7 +8,7 @@
 
 ## LPF Module with Gain Leveler, not for standalone use
 
-## Breakout Boardsr for Control Pots and Mid Switch
+## Breakout Boards for Control Pots and Mid Switch
 
 Hybrid SMT/through-hole parts format.
 
