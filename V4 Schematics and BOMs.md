@@ -6,4 +6,12 @@
 
 ## Baxandall Bass/Mids module
 
-## LPF module with gain leveler, not for standalone use
+## LPF Module with Gain Leveler, not for standalone use
+
+## Breakout Boardsr for Control Pots and Mid Switch
+
+Hybrid SMT/through-hole parts format.
+
+Status: in field testing, six versions currently built.
+
+Projected release: mid summer 2023.
