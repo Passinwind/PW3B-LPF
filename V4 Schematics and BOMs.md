@@ -6,7 +6,9 @@
 
 ## Baxandall Bass/Mids module
 
-## LPF Module with Gain Leveler, not for standalone use
+## LPF Module with Gain Leveler and Inverter, not for standalone use 
+
+## LPF Module without Gain Leveler or Inverter, suitable for pedals or standalone duty such as "per pickup" onboard installs
 
 ## Breakout Boards for Control Pots and Mid Switch
 
