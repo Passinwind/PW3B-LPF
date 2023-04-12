@@ -8,7 +8,7 @@
 
 ## Variable Resonance/Variable Frequency LPF Module
 
-Hybrid SMT/through-hole format, with 1206 resistors and SOIC-8 format opamps to facilitate hand soldering
+Hybrid SMT/through-hole format, with 1206 resistors and SOIC-8 format opamps to facilitate hand soldering.
 
 Status: in beta testing with DIY pedal builders to access ease of assembly, onboard design fork is stable and well vetted.
 
