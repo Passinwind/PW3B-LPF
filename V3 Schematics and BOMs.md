@@ -7,3 +7,7 @@
 ## Baxandall Bass/Mids Module
 
 ## Variable Resonance/Variable Frequency LPF Module
+
+Status: in beta testing with DIY pedal builders to access ease of assembly, onboard design fork is stable and well vetted.
+
+Expected release: May 2023
