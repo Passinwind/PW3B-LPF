@@ -11,7 +11,8 @@ Actual Tayda enclosure:
 
 Mockup of Cusack color shifting enclosure with UV printed graphics:
 
-![125B_OS1](https://user-images.githubusercontent.com/127763821/231566426-e0fd9349-267a-40f5-87a9-68074224ddae.PNG)
+![125B_OS1](https://user-images.githubusercontent.com/127763821/231642671-f1b1f2e7-59bf-415f-b64a-92db37c12221.PNG)
+
 
 
 
