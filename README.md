@@ -5,13 +5,15 @@
 
 ### Talkbass Wiki for various build options: https://www.talkbass.com/wiki/pw3b-lpf-open-source-onboard-preamp/
 
-
 WTHPF pedal version:
 
-**Align center:**
 <p align="center" width="100%">
-    <img width="100%" src="https://user-images.githubusercontent.com/127763821/226944304-6bf4629e-d4f2-4385-b0fc-5d0c63e9c0e3.jpg">
+    <img width="40%" src="https://user-images.githubusercontent.com/127763821/226944304-6bf4629e-d4f2-4385-b0fc-5d0c63e9c0e3.jpg">
 </p>
+
 Current PCBs for onboard preamp builds or modular pedals:
 
-![WTHPbrds](https://user-images.githubusercontent.com/127763821/230647939-fd327973-2f2c-498c-b5cb-015f18d821fb.png)
+
+<p align="center" width="100%">
+    <img width="40%" src="[https://user-images.githubusercontent.com/127763821/226944304-6bf4629e-d4f2-4385-b0fc-5d0c63e9c0e3.jpg](https://user-images.githubusercontent.com/127763821/230647939-fd327973-2f2c-498c-b5cb-015f18d821fb.png)">
+</p>
