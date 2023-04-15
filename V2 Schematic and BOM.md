@@ -5,12 +5,18 @@
 ![Passinwind_PW3B-LPFv2_125B](https://user-images.githubusercontent.com/127763821/231684786-a4803b03-4b7a-4030-b7ca-071ab2d93167.png)
 
 <p align="center" width="100%">
-Actual Tayda enclosure: </br>
+Actual Tayda 125B enclosure:  </br>
+    </p>
+
+<p align="center" width="100%">
     <img width="25%" src="https://user-images.githubusercontent.com/127763821/230925146-7342877b-b596-48cb-9574-d2ad54d94166.jpg">
 </p>
 
 <p align="center" width="100%">
-Mockup of Cusack color shifting enclosure with UV printed graphics: </br>
+Mockup of Cusack color shifting enclosure with UV printed graphics:  </br>
+    </p>
+
+<p align="center" width="100%">
     <img width="25%" src="https://user-images.githubusercontent.com/127763821/232238328-62531fcc-2d91-4a94-bdfd-2b77bef7a315.PNG">
 </p>
 
