@@ -17,7 +17,7 @@ Mockup of Cusack color shifting enclosure with UV printed graphics:  </br>
     </p>
 
 <p align="center" width="100%">
-    <img width="25%" src="https://user-images.githubusercontent.com/127763821/232265409-ca4db0c2-6398-4907-b119-de42caf87912.PNG">
+    <img width="25%" src="https://user-images.githubusercontent.com/127763821/233389833-5c14bf4d-43d0-4478-8691-d6915f7aa09e.PNG">
 </p>
 
 <p align="center" width="100%">
