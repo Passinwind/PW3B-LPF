@@ -2,7 +2,8 @@
 
 ## Single board pedal version for pre-drilled 125B enclosure and through-hole parts from Tayda Electronics. 
 
-![PW3B-LPF_125Bv2 0](https://user-images.githubusercontent.com/127763821/233648726-7b05787f-d051-4427-864f-c86441b2a587.png)
+![PW3B-LPF_125Bv2 0](https://user-images.githubusercontent.com/127763821/234318314-f958e0d9-e2be-446e-9d7e-d2add531e55d.png)
+
 
 <p align="center" width="100%">
 Actual Tayda 125B enclosure:  </br>
