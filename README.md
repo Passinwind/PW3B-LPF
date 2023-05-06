@@ -8,7 +8,7 @@
 
 <p align="center" width="100%">
 PW3B-LPF v2 test build:</br>
-    <img width="40%" src="(https://user-images.githubusercontent.com/127763821/236630518-512622c4-867d-40fe-876d-e950f9f573dd.jpg)">
+    <img width="40%" src="https://user-images.githubusercontent.com/127763821/236630518-512622c4-867d-40fe-876d-e950f9f573dd.jpg">
 </p>
 
 
