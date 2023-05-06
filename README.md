@@ -6,10 +6,9 @@
 ### Talkbass Wiki for various build options: https://www.talkbass.com/wiki/pw3b-lpf-open-source-onboard-preamp/
 
 
-
 <p align="center" width="100%">
-WTHPF pedal version: </br>
-    <img width="40%" src="https://user-images.githubusercontent.com/127763821/226944304-6bf4629e-d4f2-4385-b0fc-5d0c63e9c0e3.jpg">
+PW3B-LPF v2 test build:</br>
+    <img width="40%" src="(https://user-images.githubusercontent.com/127763821/236630518-512622c4-867d-40fe-876d-e950f9f573dd.jpg)">
 </p>
 
 
