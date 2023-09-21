@@ -20,3 +20,5 @@ Hybrid SMT/through-hole parts format.
 Status: in field testing, six versions currently built.
 
 Projected release: mid summer 2023.
+
+PCB Share Links On OSHpark: [Passinwind WTHPF v4 Board Links.txt](https://github.com/Passinwind/PW3B-LPF/files/12693039/Passinwind.WTHPF.v4.Board.Links.txt)
