@@ -28,10 +28,22 @@ https://oshpark.com/shared_projects/5ZxQMV4g
 
 ## Breakout Boards for Control Pots and Mid Switch
 
+https://oshpark.com/shared_projects/5ZxQMV4g
+
+https://oshpark.com/shared_projects/T78PSY4B
+
+https://oshpark.com/shared_projects/mWdYetTC
+
+https://oshpark.com/shared_projects/DCT6AC7V
+
+https://oshpark.com/shared_projects/hG1ndMk2
+
+https://oshpark.com/shared_projects/Bf69qvx4
+
 Hybrid SMT/through-hole parts format.
 
 Status: in field testing, six versions currently built.
 
-Projected release: mid summer 2023.
+Projected release: Oct. 2023.
 
 PCB Share Links On OSHpark: [Passinwind WTHPF v4 Board Links.txt](https://github.com/Passinwind/PW3B-LPF/files/12693039/Passinwind.WTHPF.v4.Board.Links.txt)
