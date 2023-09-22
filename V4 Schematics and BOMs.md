@@ -5,11 +5,20 @@
 ![WTHP2](https://user-images.githubusercontent.com/127763821/230929039-87084bcb-33d6-4a4a-8946-b5a6781607fe.jpg)
 
 
-## HPF module
+## HPF module:
 
-## Baxandall Bass/Mids module
+![PWHPF_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/45a49903-2219-4fa2-ac73-4b8964b3d2b4)
 
-## LPF Module with Gain Leveler and Inverter, not for standalone use 
+
+## Baxandall Bass/Mids module:
+
+![PW1B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/c1a947c1-758e-40d0-8d2c-89ad859f9ab3)
+
+
+## LPF Module with Gain Leveler and Inverter, not for standalone use:
+
+![PW23B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/acb5a027-5345-4756-a6bb-fb8a8e71c21f)
+
 
 ## LPF Module without Gain Leveler or Inverter, suitable for pedals or standalone duty such as "per pickup" onboard installs
 
