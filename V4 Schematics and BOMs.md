@@ -42,7 +42,7 @@ https://oshpark.com/shared_projects/Bf69qvx4
 
 Hybrid SMT/through-hole parts format.
 
-Status: in field testing, six versions currently built.
+Status: field testing complete, final beta versions being built.
 
 Projected release: Oct. 2023.
 
