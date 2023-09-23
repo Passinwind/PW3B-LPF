@@ -36,11 +36,10 @@ https://oshpark.com/shared_projects/mWdYetTC
 
 https://oshpark.com/shared_projects/DCT6AC7V
 
-https://oshpark.com/shared_projects/hG1ndMk2
-
 https://oshpark.com/shared_projects/Bf69qvx4
 
 Mid switch breakout:
+https://oshpark.com/shared_projects/hG1ndMk2 (standard format with secondary high mid cap)
 https://oshpark.com/shared_projects/z5V6bKeM (alt format for more compact builds)
 
 Hybrid SMT/through-hole parts format.
