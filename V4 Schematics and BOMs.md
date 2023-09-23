@@ -30,6 +30,8 @@ https://oshpark.com/shared_projects/5ZxQMV4g
 
 ## Breakout Boards for Control Pots and Mid Switch
 
+https://oshpark.com/shared_projects/nAHR94d9
+
 https://oshpark.com/shared_projects/T78PSY4B
 
 https://oshpark.com/shared_projects/mWdYetTC
