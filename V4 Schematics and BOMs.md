@@ -30,7 +30,11 @@ https://oshpark.com/shared_projects/5ZxQMV4g
 
 ## Breakout Boards for Control Pots and Mid Switch
 
+LPF board gain pot breakout:
+
 https://oshpark.com/shared_projects/nAHR94d9
+
+LPF baord Freq and Res pot breakouts:
 
 https://oshpark.com/shared_projects/T78PSY4B
 
@@ -38,10 +42,13 @@ https://oshpark.com/shared_projects/mWdYetTC
 
 https://oshpark.com/shared_projects/DCT6AC7V
 
+3PDT footswitch breakout:
+
 https://oshpark.com/shared_projects/Bf69qvx4
 
 Mid switch breakout:
 https://oshpark.com/shared_projects/hG1ndMk2 (standard format with secondary high mid cap)
+
 https://oshpark.com/shared_projects/z5V6bKeM (alt format for more compact builds)
 
 Hybrid SMT/through-hole parts format.
