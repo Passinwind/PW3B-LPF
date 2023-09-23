@@ -42,7 +42,8 @@ https://oshpark.com/shared_projects/hG1ndMk2
 
 https://oshpark.com/shared_projects/Bf69qvx4
 
-https://oshpark.com/shared_projects/z5V6bKeM (alt format for more copmpact builds)
+Mid switch breakout:
+https://oshpark.com/shared_projects/z5V6bKeM (alt format for more compact builds)
 
 Hybrid SMT/through-hole parts format.
 
