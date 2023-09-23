@@ -40,7 +40,7 @@ https://oshpark.com/shared_projects/T78PSY4B
 
 https://oshpark.com/shared_projects/mWdYetTC
 
-PW1B EQ board breakout for Alpha pots:
+PW1B EQ breakout board for Alpha pots (2 sets needed for 3 builds):
 
 https://oshpark.com/shared_projects/DCT6AC7V
 
