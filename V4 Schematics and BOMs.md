@@ -20,7 +20,7 @@ https://oshpark.com/shared_projects/67ZdfqkL
 
 ## LPF Module with Gain Leveler and Inverter, not for standalone use:
 
-![PW23B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/ab7e432e-29d6-4498-bf55-a1a5a02b4cb3)
+![PW23B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/e8460a5c-b40f-4778-852d-4eaad2075db5)
 
 
 https://oshpark.com/shared_projects/5ZxQMV4g
