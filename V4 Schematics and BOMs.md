@@ -7,7 +7,7 @@
 
 ## HPF module:
 
-![PWHPF_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/72c5e02e-b58b-4d47-be86-d22aa1548412)
+![PWHPF_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/76907c37-bb6d-4631-9f67-70a93a29fabc)
 
 
 https://oshpark.com/shared_projects/5pJ5H2ZO
@@ -20,7 +20,7 @@ https://oshpark.com/shared_projects/67ZdfqkL
 
 ## LPF Module with Gain Leveler and Inverter, not for standalone use:
 
-![PW23B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/f2a14ea6-f2c4-442b-9954-2cbf20b5bc06)
+![PW23B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/ab7e432e-29d6-4498-bf55-a1a5a02b4cb3)
 
 
 https://oshpark.com/shared_projects/5ZxQMV4g
