@@ -7,20 +7,21 @@
 
 ## HPF module:
 
-![PWHPF_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/729877f5-ba43-47e7-b527-72a0eaa4e519)
+![PWHPF_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/0f52b3f2-adf4-4b96-943b-5cbb335ac910)
 
 
 https://oshpark.com/shared_projects/5pJ5H2ZO
 
 ## Baxandall Bass/Mids module:
 
-![PW1B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/c1a947c1-758e-40d0-8d2c-89ad859f9ab3)
+![PW1B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/8ed3a625-24c1-4a5b-abe5-cfc951d67695)
+
 
 https://oshpark.com/shared_projects/67ZdfqkL
 
 ## LPF Module with Gain Leveler and Inverter, not for standalone use:
 
-![PW23B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/e8460a5c-b40f-4778-852d-4eaad2075db5)
+![PW23B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/6c6602d7-1415-4465-8b76-267ccf8cb51d)
 
 
 https://oshpark.com/shared_projects/5ZxQMV4g
