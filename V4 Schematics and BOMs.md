@@ -7,7 +7,7 @@
 
 ## HPF module:
 
-![PWHPF_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/0f52b3f2-adf4-4b96-943b-5cbb335ac910)
+![PWHPF_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/c89a776c-14e5-49f2-a8da-f473649f12bf)
 
 
 https://oshpark.com/shared_projects/5pJ5H2ZO
