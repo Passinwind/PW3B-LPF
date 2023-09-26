@@ -22,13 +22,11 @@ https://oshpark.com/shared_projects/67ZdfqkL
 ## LPF Module with Gain Leveler and Inverter, not for standalone use:
 
 
-![image](https://github.com/Passinwind/PW3B-LPF/assets/127763821/d8daa14b-4d8d-4500-a941-a30f6a694db7)
+![PW23B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/747e1709-a162-4960-adc2-a9080c481170)
 
 
 https://oshpark.com/shared_projects/5ZxQMV4g
 
-
-## LPF Module without Gain Leveler or Inverter, suitable for pedals or standalone duty such as "per pickup" onboard installs
 
 ## Breakout Boards for Control Pots and Mid Switch
 
