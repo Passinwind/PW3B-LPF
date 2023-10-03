@@ -31,6 +31,8 @@ https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0
 
 https://oshpark.com/shared_projects/5ZxQMV4g
 
+https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=d5c27a323f
+
 
 ## Breakout Boards for Control Pots and Mid Switch
 
