@@ -21,6 +21,8 @@ https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0
 
 https://oshpark.com/shared_projects/67ZdfqkL
 
+https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0
+
 ## LPF Module with Gain Leveler and Inverter, not for standalone use:
 
 
