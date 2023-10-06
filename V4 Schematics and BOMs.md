@@ -12,7 +12,7 @@
 
 https://oshpark.com/shared_projects/5pJ5H2ZO
 
-https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0
+[https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=713cafea37)
 
 ## Baxandall Bass/Mids module:
 
