@@ -26,7 +26,7 @@ https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0
 ## LPF Module with Gain Leveler and Inverter, not for standalone use:
 
 
-![PW23B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/747e1709-a162-4960-adc2-a9080c481170)
+![PW23B_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/3605aee8-5681-41a0-8377-ceef58238759)
 
 
 https://oshpark.com/shared_projects/5ZxQMV4g
