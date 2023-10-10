@@ -3,7 +3,6 @@
 
 ### Original Talkbass thread, including links to prior art: https://www.talkbass.com/threads/the-passinwind-open-source-preamp.1259692/
 
-### Talkbass Wiki for various build options: https://www.talkbass.com/wiki/pw3b-lpf-open-source-onboard-preamp/
 
 <p align="center" width="100%">
 PW3B-LPF v4 in Gorva S90 enclosure:</br>
