@@ -33,6 +33,13 @@ https://oshpark.com/shared_projects/5ZxQMV4g
 
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=d5c27a323f
 
+Preferred pots:
+
+(2) https://smallbear-electronics.mybigcommerce.com/alpha-single-gang-16mm-solder-lug-center-detents/ (50k linear)
+
+(2) https://smallbear-electronics.mybigcommerce.com/alpha-dual-gang-16mm-vertical-pc-mount/ (dual 50k reverse audio)
+
+
 
 ## Breakout Boards for Control Pots and Mid Switch
 
@@ -62,8 +69,7 @@ https://oshpark.com/shared_projects/z5V6bKeM (alt format for more compact builds
 
 Hybrid SMT/through-hole parts format.
 
-Status: field testing complete, final beta versions being built.
+Status: Complete
 
-Projected release: Oct. 2023.
 
 PCB Share Links On OSHpark: [Passinwind WTHPF v4 Board Links.txt](https://github.com/Passinwind/PW3B-LPF/files/12693039/Passinwind.WTHPF.v4.Board.Links.txt)
