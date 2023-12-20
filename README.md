@@ -1,7 +1,7 @@
 # PW3B-LPF
 ## Open source hybrid filter preamps for electric and upright bass, guitar, mandolin, and other musical instruments. Pedal friendly compact all in one version with through-hole parts (v2 only), and individual part SMD/part through hole modules for variable high pass filter, Baxandall bass/mid controls, and variable resonance/variable frequency low pass filter. Most modules can be configured for standalone use or in various mix and match combinations.
 
-###Important:
+Important:
 
 The resonant filter board can easily go into self oscillation and destroy itself and/or attached gear if built incorrectly or if a pot fails. It is highly recommended to bench test with an oscilloscope to verify stable operation over the full control sweep ranges before installation and use with an amp and speakers. Also note that many parts are in surface mount format, so this is probably best thought of as an advanced project best suited for very experienced builders. Little or no tech support is available, but the designs themselves are very well vetted over 7+ years of evolution. 
 
