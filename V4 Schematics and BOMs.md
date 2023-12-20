@@ -23,6 +23,13 @@ https://oshpark.com/shared_projects/67ZdfqkL
 
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0
 
+Mid frequency switch: 
+
+https://lovemyswitches.com/taiway-dpdt-on-on-on-switch-solder-lug-short-shaft/
+OR
+https://lovemyswitches.com/taiway-dpdt-on-on-on-switch-solder-lug-short-shaft-black-plated/
+
+
 ## LPF Module with Gain Leveler and Inverter, not for standalone use:
 
 
