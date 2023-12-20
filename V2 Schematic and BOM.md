@@ -22,5 +22,5 @@ Mockup of Cusack color shifting enclosure with UV printed graphics:  </br>
 </p>
 
 <p align="center" width="100%">
-Status: in final testing and revision, official v2 release expected by May 2023. </br>
+Status: Abandoned, but acrhived in case someone wants to revsisit. </br>
     </p>
