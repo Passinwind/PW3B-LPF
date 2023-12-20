@@ -3,7 +3,7 @@
 
 ###Important:
 
-The resonant filter board can easily go into self oscillation and destroy istelf and/or attached gear if built incorrectly or if a pot fails. It is highly recommended to bench test with an oscilloscope to verify stable operation over the full control sweep ranges before installation and use with an amp and speakers. Also not that many parts are in surface mount format, so this is probably best thought of as an advanced project best suited to very experienced builders. Little or no tech support is available, but the designs themselves are very well vetted over 7+ years of evolution. 
+The resonant filter board can easily go into self oscillation and destroy itself and/or attached gear if built incorrectly or if a pot fails. It is highly recommended to bench test with an oscilloscope to verify stable operation over the full control sweep ranges before installation and use with an amp and speakers. Also note that many parts are in surface mount format, so this is probably best thought of as an advanced project best suited for very experienced builders. Little or no tech support is available, but the designs themselves are very well vetted over 7+ years of evolution. 
 
 ### Original Talkbass thread, including links to prior art: https://www.talkbass.com/threads/the-passinwind-open-source-preamp.1259692/
 
