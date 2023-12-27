@@ -34,6 +34,7 @@ https://lovemyswitches.com/taiway-dpdt-on-on-on-switch-solder-lug-short-shaft-bl
 
 Bypass switch:
 https://lovemyswitches.com/taiway-3pdt-on-on-switch-solder-lug-short-shaft/
+OR
 https://lovemyswitches.com/taiway-dpdt-on-on-switch-solder-lug-short-shaft/
 OR
 https://lovemyswitches.com/taiway-dpdt-on-on-switch-solder-lug-short-shaft-black-plated/
