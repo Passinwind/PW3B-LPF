@@ -84,6 +84,9 @@ https://oshpark.com/shared_projects/hG1ndMk2 (standard format with secondary hig
 
 https://oshpark.com/shared_projects/z5V6bKeM (alt format for more compact builds)
 
+![ThreeWaySwitch_Type2_ononon](https://github.com/Passinwind/PW3B-LPF/assets/127763821/2a22d718-b632-4086-8c5c-75bbfe6d7650)
+
+
 Hybrid SMT/through-hole parts format.
 
 Status: Complete
