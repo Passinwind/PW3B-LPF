@@ -62,7 +62,7 @@ Preferred pots:
 
 LPF board gain pot breakout:
 
-https://oshpark.com/shared_projects/nAHR94d9
+https://oshpark.com/shared_projects/OXGgszxm
 
 LPF board Freq and Res pot breakouts:
 
