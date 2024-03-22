@@ -2,7 +2,7 @@
 
 Important:
 
-The resonant filter board can easily go into self oscillation and destroy itself and/or attached gear if built incorrectly or if a pot fails. It is highly recommended to bench test with an oscilloscope to verify stable operation over the full control sweep ranges before installation and use with an amp and speakers. Also note that many parts are in surface mount format, so this is probably best thought of as an advanced project best suited for very experienced builders. Little or no tech support is available, but the designs themselves are very well vetted over 7+ years of evolution. 
+The resonant filter board can easily go into self oscillation and destroy itself and/or attached gear if built incorrectly or if a pot fails. It is highly recommended to bench test with an oscilloscope to verify stable operation over the full control sweep ranges before installation and use with an amp and speakers. Also note that many parts are in surface mount format, so this is probably best thought of as an advanced project only suited for very experienced builders. Little or no tech support is available, but the designs themselves are very well vetted over 7+ years of evolution. 
 
 
 
@@ -20,7 +20,7 @@ https://oshpark.com/shared_projects/5pJ5H2ZO
 
 ## Baxandall Bass/Mids module:
 
-![PW1B_v6_6_schematic](https://github.com/Passinwind/PW3B-LPF/assets/127763821/2d68052e-4ff3-488a-b7e3-39b06ad4bce2)
+![PW6B_v6_6_schematic](https://github.com/Passinwind/PW3B-LPF/assets/127763821/b3024f64-aa97-4cc9-90a1-6aaca827b230)
 
 
 https://oshpark.com/shared_projects/67ZdfqkL
