@@ -10,6 +10,4 @@
 
 Hybrid SMT/through-hole format, with 1206 resistors and SOIC-8 format opamps to facilitate hand soldering.
 
-Status: in beta testing with DIY pedal builders to assess ease of assembly, onboard design fork is stable and well vetted.
-
-Expected release: May 2023
+Status: on indefinite hold pending someone else talking over this design fork
