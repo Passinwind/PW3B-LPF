@@ -42,7 +42,7 @@ https://lovemyswitches.com/taiway-dpdt-on-on-switch-solder-lug-short-shaft-black
 
 ## LPF Module with Gain Leveler and Inverter, not for standalone use without buffering in front of it:
 
-![PW23B_v5_6_schematic](https://github.com/Passinwind/PW3B-LPF/assets/127763821/dc08fbdb-2b17-4f74-8ae7-c3dfa7fbe224)
+![PW23B_v5_6_schematic](https://github.com/Passinwind/PW3B-LPF/assets/127763821/3271279f-6de2-4144-811a-c41fc490b820)
 
 
 https://oshpark.com/shared_projects/5ZxQMV4g
