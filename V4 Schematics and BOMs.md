@@ -20,7 +20,7 @@ https://oshpark.com/shared_projects/5pJ5H2ZO
 
 ## Baxandall Bass/Mids module:
 
-![PW1B_v6_6_schematic](https://github.com/Passinwind/PW3B-LPF/assets/127763821/8a2b5818-7f5f-493b-8ee2-dc92599faab1)
+![PW1B_v6_6_schematic](https://github.com/Passinwind/PW3B-LPF/assets/127763821/1a9de2ed-2b04-474a-b70f-3c669c745f4d)
 
 
 https://oshpark.com/shared_projects/67ZdfqkL
