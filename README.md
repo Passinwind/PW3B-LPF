@@ -17,13 +17,6 @@ PW3B-LPF v4 in Gorva S90 enclosure:</br>
 
 
 <p align="center" width="100%">
-PW3B-LPF v2 test build:</br>
-    <img width="20%" src="https://user-images.githubusercontent.com/127763821/236630518-512622c4-867d-40fe-876d-e950f9f573dd.jpg">
-</p>
-
-
-
-<p align="center" width="100%">
 Current PCBs for onboard preamp builds or modular pedals: </br>
     <img width="25%" src="https://user-images.githubusercontent.com/127763821/231826833-d4ab2c50-5cef-490f-a971-f1aa1ea49bb5.png">
 </p>
