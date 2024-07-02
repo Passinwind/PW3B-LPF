@@ -1,8 +1,6 @@
 # PW3B-LPF v2
 
-<p align="center" width="100%">
-    <img width="25%" src="https://user-images.githubusercontent.com/127763821/230925146-7342877b-b596-48cb-9574-d2ad54d94166.jpg">
-</p>
+![image](https://user-images.githubusercontent.com/127763821/236630352-ae340d0d-d38c-4250-8d87-d16f06b909bc.png)
 
 Status: Abandoned, no longer supported.
    
