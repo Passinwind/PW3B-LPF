@@ -1,3 +1,3 @@
 # PW3B-LPF v2
 
-Status: Abandoned, no longer supported or recommended for new builds.
+Status: Obsolete and abandoned, no longer supported or recommended for new builds.
