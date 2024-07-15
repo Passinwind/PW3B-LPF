@@ -48,13 +48,11 @@ https://oshpark.com/shared_projects/5ZxQMV4g
 
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=d5c27a323f
 
-Preferred pots:
+## Preferred pots:
 
 (2) https://smallbear-electronics.mybigcommerce.com/alpha-single-gang-16mm-solder-lug-center-detents/ (50k linear)
 
 (2) https://smallbear-electronics.mybigcommerce.com/alpha-dual-gang-16mm-vertical-pc-mount/ (dual 50k reverse audio)
-
-
 
 ## Breakout Boards for Control Pots and Mid Switch
 
@@ -68,7 +66,7 @@ https://oshpark.com/shared_projects/T78PSY4B
 
 https://oshpark.com/shared_projects/mWdYetTC
 
-PW1B EQ breakout board for Alpha pots (2 sets needed for 3 builds):
+PW1B EQ breakout board for pots with PC pins, if not using lugged ones as recommended above (2 sets needed for 3 builds):
 
 https://oshpark.com/shared_projects/DCT6AC7V
 
@@ -81,7 +79,7 @@ Breakout board orientations (important!):
 
 https://oshpark.com/shared_projects/Bf69qvx4
 
-Mid switch breakout:
+## Mid switch breakout:
 
 https://oshpark.com/shared_projects/hG1ndMk2 (standard format with secondary high mid cap)
 
