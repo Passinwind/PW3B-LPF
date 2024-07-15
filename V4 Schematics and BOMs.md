@@ -48,13 +48,13 @@ https://oshpark.com/shared_projects/5ZxQMV4g
 
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=d5c27a323f
 
-## Preferred pots:
+# Preferred pots:
 
 (2) https://smallbear-electronics.mybigcommerce.com/alpha-single-gang-16mm-solder-lug-center-detents/ (50k linear)
 
 (2) https://smallbear-electronics.mybigcommerce.com/alpha-dual-gang-16mm-vertical-pc-mount/ (dual 50k reverse audio)
 
-## Breakout Boards for Control Pots and Mid Switch
+# Breakout Boards for Control Pots and Mid Switch
 
 LPF board gain pot breakout:
 
@@ -75,11 +75,11 @@ Breakout board orientations (important!):
 ![Mock1](https://github.com/user-attachments/assets/be9fa8b6-9011-4e1e-8545-a29777a5e56e)
 
 
-3PDT footswitch breakout:
+# 3PDT footswitch breakout:
 
 https://oshpark.com/shared_projects/Bf69qvx4
 
-## Mid switch breakout:
+# Mid switch breakout:
 
 https://oshpark.com/shared_projects/hG1ndMk2 (standard format with secondary high mid cap)
 
