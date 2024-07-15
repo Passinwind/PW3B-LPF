@@ -74,7 +74,7 @@ https://oshpark.com/shared_projects/DCT6AC7V
 
 Breakout board orientations (important!):
 
-![Mock1](https://github.com/user-attachments/assets/d6bcf25c-22bb-4c5b-8c34-499df395da7d)
+![Mock1](https://github.com/user-attachments/assets/be9fa8b6-9011-4e1e-8545-a29777a5e56e)
 
 
 3PDT footswitch breakout:
