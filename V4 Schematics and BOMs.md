@@ -1,6 +1,6 @@
 # Passinwind "WTHPF" pedal with optional gain leveler and overall non-inverting signal chain
 
-Important:
+### Important:
 
 The resonant filter board can easily go into self oscillation and destroy itself and/or attached gear if built incorrectly or if a pot fails. It is highly recommended to bench test with an oscilloscope to verify stable operation over the full control sweep ranges before installation and use with an amp and speakers. Also note that many parts are in surface mount format, so this is probably best thought of as an advanced project only suited for very experienced builders. Little or no tech support is available, but the designs themselves are very well vetted over 7+ years of evolution. 
 
