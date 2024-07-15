@@ -87,10 +87,6 @@ https://oshpark.com/shared_projects/z5V6bKeM (alt format for more compact builds
 
 ![ThreeWaySwitch_Type2_ononon](https://github.com/Passinwind/PW3B-LPF/assets/127763821/2a22d718-b632-4086-8c5c-75bbfe6d7650)
 
-
-Hybrid SMT/through-hole parts format.
+PCB Share Links On OSHpark: [Passinwind WTHPF v4 Board Links.txt](https://github.com/Passinwind/PW3B-LPF/files/12693039/Passinwind.WTHPF.v4.Board.Links.txt)
 
 ### Status: Complete
-
-
-PCB Share Links On OSHpark: [Passinwind WTHPF v4 Board Links.txt](https://github.com/Passinwind/PW3B-LPF/files/12693039/Passinwind.WTHPF.v4.Board.Links.txt)
