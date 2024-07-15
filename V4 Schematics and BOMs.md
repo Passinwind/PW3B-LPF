@@ -72,6 +72,11 @@ PW1B EQ breakout board for Alpha pots (2 sets needed for 3 builds):
 
 https://oshpark.com/shared_projects/DCT6AC7V
 
+Breakout board orientations (important!):
+
+![Mock1](https://github.com/user-attachments/assets/d6bcf25c-22bb-4c5b-8c34-499df395da7d)
+
+
 3PDT footswitch breakout:
 
 https://oshpark.com/shared_projects/Bf69qvx4
