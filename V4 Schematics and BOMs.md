@@ -89,4 +89,6 @@ https://oshpark.com/shared_projects/z5V6bKeM (alt format for more compact builds
 
 PCB Share Links On OSHpark: [Passinwind WTHPF v4 Board Links.txt](https://github.com/Passinwind/PW3B-LPF/files/12693039/Passinwind.WTHPF.v4.Board.Links.txt)
 
+### Power distribution and reverse polarity baord frem @Sanj
+
 ### Status: Complete
