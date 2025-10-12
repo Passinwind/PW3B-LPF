@@ -11,7 +11,7 @@ The resonant filter board can easily go into self oscillation and destroy itself
 
 ## HPF module:
 
-![PWHPF_schema](https://github.com/Passinwind/PW3B-LPF/assets/127763821/71a0f864-22f7-47e4-828c-8cabbbb77b38)
+![PWHPF_schematic](https://github.com/Passinwind/PW3B-LPF/assets/127763821/71a0f864-22f7-47e4-828c-8cabbbb77b38)
 
 
 https://oshpark.com/shared_projects/5pJ5H2ZO
@@ -20,7 +20,8 @@ https://oshpark.com/shared_projects/5pJ5H2ZO
 
 ## Baxandall Bass/Mids module:
 
-![PW1B_v6_6_schematic](https://github.com/Passinwind/PW3B-LPF/assets/127763821/1a9de2ed-2b04-474a-b70f-3c669c745f4d)
+![PW1B_v6_6_schematic]<img width="1417" height="894" alt="PW1B_v6_72" src="https://github.com/user-attachments/assets/d841d80a-4111-418c-a377-38b7881f4f2b" />
+
 
 
 https://oshpark.com/shared_projects/67ZdfqkL
