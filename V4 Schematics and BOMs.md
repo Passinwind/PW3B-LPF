@@ -8,10 +8,13 @@ The resonant filter board can easily go into self oscillation and destroy itself
 
 ![WTHP2](https://user-images.githubusercontent.com/127763821/230929039-87084bcb-33d6-4a4a-8946-b5a6781607fe.jpg)
 
+### Important:
+
+Preferred module order: PWHPF --> PW1B --> PW23B
+
 
 ## HPF module:
-
-![PWHPF_schematic](https://github.com/Passinwind/PW3B-LPF/assets/127763821/71a0f864-22f7-47e4-828c-8cabbbb77b38)
+<img width="1678" height="894" alt="PWHPF_v2_22" src="https://github.com/user-attachments/assets/6d849964-c8ba-48f3-9057-2bc75479a773" />
 
 
 https://oshpark.com/shared_projects/5pJ5H2ZO
@@ -21,9 +24,6 @@ https://oshpark.com/shared_projects/5pJ5H2ZO
 ## Baxandall Bass/Mids module:
 
  <img width="1417" height="894" alt="PW1B_v6_72" src="https://github.com/user-attachments/assets/3a3c3719-59d0-402f-991e-89f4e70cbccb" />
-
-
-
 
 https://oshpark.com/shared_projects/67ZdfqkL
 
@@ -44,7 +44,7 @@ https://lovemyswitches.com/taiway-dpdt-on-on-switch-solder-lug-short-shaft-black
 
 ## LPF Module with Gain Leveler and Inverter, not for standalone use without buffering in front of it:
 
-![PW23B_v5_6_schematic](https://github.com/Passinwind/PW3B-LPF/assets/127763821/44a4d111-2e82-47e6-b3de-3db2ef88338d)
+<img width="1840" height="896" alt="PW23B_v5_72" src="https://github.com/user-attachments/assets/93590c2e-cc8a-40eb-902f-914bb1769a5d" />
 
 https://oshpark.com/shared_projects/5ZxQMV4g
 
