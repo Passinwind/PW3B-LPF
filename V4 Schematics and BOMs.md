@@ -16,8 +16,7 @@ The resonant filter board can easily go into self oscillation and destroy itself
 ## HPF module:
 <img width="1678" height="894" alt="PWHPF_v2_22" src="https://github.com/user-attachments/assets/6d849964-c8ba-48f3-9057-2bc75479a773" />
 
-
-https://oshpark.com/shared_projects/5pJ5H2ZO
+https://oshpark.com/shared_projects/8puytFg0
 
 [https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=713cafea37)
 
@@ -25,7 +24,7 @@ https://oshpark.com/shared_projects/5pJ5H2ZO
 
  <img width="1417" height="894" alt="PW1B_v6_72" src="https://github.com/user-attachments/assets/3a3c3719-59d0-402f-991e-89f4e70cbccb" />
 
-https://oshpark.com/shared_projects/67ZdfqkL
+https://oshpark.com/shared_projects/gU4BaZEU
 
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0
 
@@ -46,7 +45,7 @@ https://lovemyswitches.com/taiway-dpdt-on-on-switch-solder-lug-short-shaft-black
 
 <img width="1840" height="896" alt="PW23B_v5_72" src="https://github.com/user-attachments/assets/93590c2e-cc8a-40eb-902f-914bb1769a5d" />
 
-https://oshpark.com/shared_projects/5ZxQMV4g
+https://oshpark.com/shared_projects/t2zyECRN
 
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=d5c27a323f
 
