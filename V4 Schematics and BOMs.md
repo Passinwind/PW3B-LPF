@@ -94,4 +94,4 @@ PCB Share Links On OSHpark: [Passinwind WTHPF v4 Board Links.txt](https://github
 
 https://oshpark.com/shared_projects/Wgztq5Zb
 
-### Status: Complete
+### Status: Complete, all PCBs and BOMs updated 10/13/2025 due to discontinued parts isssues
