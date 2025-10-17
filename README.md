@@ -12,7 +12,7 @@ The resonant filter board can easily go into self oscillation and destroy itself
 
 <p align="center" width="100%">
 PW3B-LPF v4 in Gorva S90 enclosure:</br>
-    <img width="40%" src="https://user-images.githubusercontent.com/127763821/236630708-b9812c4f-c3fb-433a-8882-7cfeef485877.jpg">
+    <img width="80%" src="https://user-images.githubusercontent.com/127763821/236630708-b9812c4f-c3fb-433a-8882-7cfeef485877.jpg">
 </p>
 
 
