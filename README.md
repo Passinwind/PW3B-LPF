@@ -7,12 +7,8 @@ The resonant filter board can easily go into self oscillation and destroy itself
 
 ### Original Talkbass thread, including links to prior art: https://www.talkbass.com/threads/the-passinwind-open-source-preamp.1259692/
 
-
-
-
-<p align="center" width="100%">
-PW3B-LPF v4 in Gorva S90 enclosure:</br>
- <img width="55%" src="https://user-images.githubusercontent.com/127763821/236630708-b9812c4f-c3fb-433a-8882-7cfeef485877.jpg">
-</p>
+# PW3B-LPF v4 in Gorva S90 enclosure:
+ 
+ <img width="480" height="378" alt="V89" src="https://github.com/user-attachments/assets/2e44d59c-bedd-40ea-9141-e90f844f9582" />
 
 
