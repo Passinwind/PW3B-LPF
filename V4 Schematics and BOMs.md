@@ -24,7 +24,7 @@ https://oshpark.com/shared_projects/8puytFg0
 
 <img width="1286" height="892" alt="PW1B_v6_75" src="https://github.com/user-attachments/assets/6d52ba3a-9a2f-4458-9175-0d41b231ff1f" />
 
-(https://www.mouser.com/Tools/Project/Share?AccessID=b81401fb70)
+https://www.mouser.com/Tools/Project/Share?AccessID=b81401fb70
 
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0
 
