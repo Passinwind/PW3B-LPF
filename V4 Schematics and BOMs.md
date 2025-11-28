@@ -22,9 +22,9 @@ https://oshpark.com/shared_projects/8puytFg0
 
 ## Baxandall Bass/Mids module:
 
- <img width="1417" height="894" alt="PW1B_v6_72" src="https://github.com/user-attachments/assets/3a3c3719-59d0-402f-991e-89f4e70cbccb" />
+<img width="1286" height="892" alt="PW1B_v6_75" src="https://github.com/user-attachments/assets/6d52ba3a-9a2f-4458-9175-0d41b231ff1f" />
 
-https://oshpark.com/shared_projects/sDOxbdNH
+(https://www.mouser.com/Tools/Project/Share?AccessID=b81401fb70)
 
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0
 
