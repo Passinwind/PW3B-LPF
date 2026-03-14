@@ -9,7 +9,7 @@ Manipulating input impedance is a good way of enhancing performance, and should 
 
 ### Original Talkbass thread, including links to prior art: https://www.talkbass.com/threads/the-passinwind-open-source-preamp.1259692/
 
- PW3B-LPF v4 in Gorva S90 enclosure:
+ PW3B-LPF v4 in Gorva S90 enclosure, UV printing by AmplifyFun:
  
  <img width="480" height="378" alt="V89" src="https://github.com/user-attachments/assets/2e44d59c-bedd-40ea-9141-e90f844f9582" />
 
