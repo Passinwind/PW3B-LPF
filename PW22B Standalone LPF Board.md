@@ -1,3 +1,3 @@
-# PW22B Non-Inverting LPF Board For Onbaord Installs
+# PW22B Non-Inverting LPF Board For Onboard Installs
 
 
