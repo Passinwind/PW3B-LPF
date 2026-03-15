@@ -1,5 +1,5 @@
 # PW3B-LPF
-## Open source hybrid filter preamps for electric and upright bass, guitar, mandolin, and other musical instruments. Individual part SMD/part through hole modules for variable high pass filter, Baxandall bass/mid controls, and variable resonance/variable frequency low pass filter. Most modules can be configured for standalone use or in various mix and match combinations.
+## Open source hybrid filter preamps for electric and upright bass, guitar, mandolin, and other musical instruments. Individual partly SMD/partly through hole modules for variable high pass filter, Baxandall bass/mid controls with optional 3 way mid frequency switching, and variable resonance/variable frequency low pass filter. Most modules can be configured for standalone use or various mix and match combinations.
 
 Important:
 
