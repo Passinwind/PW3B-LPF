@@ -28,7 +28,6 @@ https://oshpark.com/shared_projects/sDOxbdNH
 
 https://www.mouser.com/Tools/Project/Share?AccessID=b81401fb70
 
-https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=7192ab57a0
 
 Mid frequency switch:
 https://lovemyswitches.com/taiway-dpdt-on-on-on-switch-solder-lug-short-shaft/
